@@ -1,4 +1,4 @@
-# Malware Database - Batch
+# Batch Malware Database
 ### Warning
 All of the files in this folder are meant to cause harm to your device. Run these batch files / exe files on a VM. These "malware / viruses" are open-source and free to code. Use these programs at your own risk. Please **DO NOT** run this on your **MAIN** device and **especially** on your friend's computer and of course **NOT** on a public or a school computer. These files are meant to cause harm. If you are doing it on another computer you own, you could be charged with a federal offense. Use this carefully. *With great power, comes great responsibility.*
 # 
